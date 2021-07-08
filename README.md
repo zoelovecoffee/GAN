@@ -1,2 +1,2 @@
-# GAN
-Some GAN-related assignments. 
+# deep learning projects
+Some deep learning assignments, including GAN 
